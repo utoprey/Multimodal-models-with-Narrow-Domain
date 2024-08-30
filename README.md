@@ -61,6 +61,13 @@ This method leverages the strengths of Stable Diffusion to achieve high fidelity
 By preparing this multimodal paired dataset and using the GILL model, we aim to enhance the accuracy and interpretability of fMRI analyses, enabling deeper insights into brain connectivity patterns.
 
 This structured and detailed description should provide a clear overview of your approach and methodologies, highlighting the use of GILL and other techniques in your project.
+
+**TinyLLaVA-Phi-2-SigLIP-3.1B**:
+- **Repository**: [TinyLLaVA-Phi-2-SigLIP-3.1B on GitHub]([https://github.com/kohjingyu/gill/tree/main?tab=readme-ov-file](https://github.com/TinyLLaVA/TinyLLaVA_Factory))
+- **Overview**: TinyLLaVA Factory is an open-source modular codebase for small-scale large multimodal models (LMMs), implemented in PyTorch and HuggingFace, with a focus on simplicity of code implementations, extensibility of new features, and reproducibility of training results
+
 ## Project Overview
 
 This project aims to refine and optimize multimodal models for application in specific domains, leveraging the data from the sources mentioned above. The fine-tuning process is critical for ensuring that these models can accurately interpret and generate content within narrow, specialized contexts, whether in medical research or social media meme analysis.
+
+## Methodologies for Memes Domain finetuning
