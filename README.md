@@ -3,7 +3,8 @@
 This project focuses on fine-tuning multimodal models to enhance their performance in specialized, narrow-domain applications. Below are the datasets utilized in this project, categorized by their respective domains.
 
 ## Report: 
-[Our team work report](https://github.com/utoprey/Multimodal-models-with-Narrow-Domain/blob/main/Tem37_Report.pdf)
+[Our team work report in .pdf](https://github.com/utoprey/Multimodal-models-with-Narrow-Domain/blob/main/Tem37_Report.pdf)
+[Same report in Overleaf](https://www.overleaf.com/read/dybpmqvyzvgm#46a0d5)
 
 ## Datasets
 
