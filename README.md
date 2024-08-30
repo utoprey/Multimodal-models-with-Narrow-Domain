@@ -52,6 +52,10 @@ During generation, start with an initial sample $X_0 \sim q_{0}$ and evolve it t
 
 This method leverages the strengths of Stable Diffusion to achieve high fidelity and accuracy in generating images that correspond to complex connectivity patterns, crucial for analyzing fMRI data in a medical context.
 
+## Methodologies for Memes Domain finetuning
+
+The preparation of training examples included the search and selection of available meme datasets, with a description of what is happening on it. The data was prepared for a format that is compatible with additional finetuning and then the LoRA was used. To test the work of the finetuned model, a competition was made between the basic model and the finetuned one.
+
 ## Multimodal models
 
 **GILL Model**:
@@ -70,13 +74,5 @@ This structured and detailed description should provide a clear overview of your
 
 This project aims to refine and optimize multimodal models for application in specific domains, leveraging the data from the sources mentioned above. The fine-tuning process is critical for ensuring that these models can accurately interpret and generate content within narrow, specialized contexts, whether in medical research or social media meme analysis.
 
-## Methodologies for Memes Domain finetuning
 
 
-The preparation of training examples included the search and selection of available meme datasets, with a description of what is happening on it. The data was prepared for a format that is compatible with additional finetuning and then the LoRA was used. To test the work of the finetuned model, a competition was made between the basic model and the finetuned one.
-
-## Multimodal models
-
-**TinyLLaVA-Phi-2-SigLIP-3.1B**:
-- **Repository**: [TinyLLaVA-Phi-2-SigLIP-3.1B on GitHub]([https://github.com/kohjingyu/gill/tree/main?tab=readme-ov-file](https://github.com/TinyLLaVA/TinyLLaVA_Factory))
-- **Overview**: TinyLLaVA Factory is an open-source modular codebase for small-scale large multimodal models (LMMs), implemented in PyTorch and HuggingFace, with a focus on simplicity of code implementations, extensibility of new features, and reproducibility of training results
