@@ -70,6 +70,8 @@ This structured and detailed description should provide a clear overview of your
 - **Repository**: [TinyLLaVA-Phi-2-SigLIP-3.1B on GitHub]([https://github.com/kohjingyu/gill/tree/main?tab=readme-ov-file](https://github.com/TinyLLaVA/TinyLLaVA_Factory))
 - **Overview**: TinyLLaVA Factory is an open-source modular codebase for small-scale large multimodal models (LMMs), implemented in PyTorch and HuggingFace, with a focus on simplicity of code implementations, extensibility of new features, and reproducibility of training results
 
+By preparing multimodal paired dataset and using the TinyLLaVA-Phi-2-SigLIP-3.1B model, we aim to enhance the accuracy and interpretability of memes, enabling a deeper understanding of the context and hidden meaning of the meme.
+
 ## Project Overview
 
 This project aims to refine and optimize multimodal models for application in specific domains, leveraging the data from the sources mentioned above. The fine-tuning process is critical for ensuring that these models can accurately interpret and generate content within narrow, specialized contexts, whether in medical research or social media meme analysis.
